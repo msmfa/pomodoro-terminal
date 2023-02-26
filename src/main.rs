@@ -13,5 +13,9 @@ fn main() {
 
         println!("Take a break for {} minutes...", BREAK_DURATION / 60);
         thread::sleep(break_duration);
+
+        print!("\x07"); // Play a beep sound after each session
+        print!("\x07"); // Play a beep sound after each session
+        print!("\x07"); // Play a beep sound after each session
     }
 }
