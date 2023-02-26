@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-This is a simple Pomodoro timer written in Rust that runs in the command line.
+A command line Pomodoro timer written
 
 ## Requirements
 
