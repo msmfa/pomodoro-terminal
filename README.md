@@ -4,9 +4,7 @@ This is a simple Pomodoro timer written in Rust that runs in the command line.
 
 ## Requirements
 
-To run this program, you'll need to have Rust installed on your system. You can download Rust from the official website:
-
-- https://www.rust-lang.org/tools/install
+To run this program, you'll need to have [Rust installed on your system](https://www.rust-lang.org/tools/install)
 
 ## Usage
 
